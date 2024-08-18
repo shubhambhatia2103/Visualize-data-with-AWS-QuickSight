@@ -32,6 +32,7 @@ Amazon QuickSight is an AWS service that enables users to analyze and visualize 
 - **Visualization Process**: I started by dragging relevant fields into QuickSight's AutoGraph space to create my first visualizations.
 - One of my initial visualizations depicted a breakdown of movies versus TV shows by release year.
 
+![Creating Visualizations](Documentation/high-step5.5.png)
 ### 5. Using Filters for Specific Insights
 - **Filters**: Filters allowed me to focus on specific subsets of data. For instance, I filtered out movies and TV shows released before 2015, honing in on more recent trends.
 - This filtering process helped me create a more targeted visualization focusing on the most recent content.
