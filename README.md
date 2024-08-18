@@ -37,6 +37,7 @@ Amazon QuickSight is an AWS service that enables users to analyze and visualize 
 - **Filters**: Filters allowed me to focus on specific subsets of data. For instance, I filtered out movies and TV shows released before 2015, honing in on more recent trends.
 - This filtering process helped me create a more targeted visualization focusing on the most recent content.
 
+![Using Filters](Documentation/high-step6.92.png) 
 ### 6. Finalizing the Dashboard
 - **Dashboard Setup**: I polished my visualizations by editing titles to ensure clarity and purpose. I also explored exporting the dashboard as a PDF, which can be useful for sharing insights.
 
