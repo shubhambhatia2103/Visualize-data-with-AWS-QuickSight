@@ -4,6 +4,8 @@
 
 In this project, I explored Amazon QuickSight, a powerful business analytics service provided by AWS, to visualize and analyze Netflix's catalog trends. This hands-on experience allowed me to delve into data-driven decision-making by creating insightful visualizations.
 
+![architecture](Documentation/architecture-diagram.png) 
+
 ## What is Amazon QuickSight?
 
 Amazon QuickSight is an AWS service that enables users to analyze and visualize data quickly and easily. It’s a tool that equips businesses to gain insights from their data, helping them make faster, data-driven decisions.
