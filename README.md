@@ -41,6 +41,7 @@ Amazon QuickSight is an AWS service that enables users to analyze and visualize 
 ### 6. Finalizing the Dashboard
 - **Dashboard Setup**: I polished my visualizations by editing titles to ensure clarity and purpose. I also explored exporting the dashboard as a PDF, which can be useful for sharing insights.
 
+![Finalizing the Dashboard](Documentation/final.png)  
 ## Key Learnings
 
 1. **Ease of Use**: QuickSight is user-friendly and simplifies the data visualization process.
