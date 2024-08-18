@@ -27,6 +27,7 @@ Amazon QuickSight is an AWS service that enables users to analyze and visualize 
 - **Dataset Connection**: I connected my S3 bucket to QuickSight by creating a new dataset, selecting S3 as the data source, and entering the S3 URL for the `manifest.json` file.
 - The `manifest.json` file acted as a guide for QuickSight, ensuring accurate data interpretation and visualization.
 
+![Connecting S3 to QuickSight](Documentation/imageeee.png)  
 ### 4. Creating Visualizations
 - **Visualization Process**: I started by dragging relevant fields into QuickSight's AutoGraph space to create my first visualizations.
 - One of my initial visualizations depicted a breakdown of movies versus TV shows by release year.
