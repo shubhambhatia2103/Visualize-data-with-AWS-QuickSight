@@ -54,3 +54,12 @@ Amazon QuickSight is an AWS service that enables users to analyze and visualize 
 This project was an excellent opportunity to familiarize myself with Amazon QuickSight. The entire process, from setting up S3 and QuickSight to creating meaningful visualizations, took around 125 minutes. Moving forward, I aim to deepen my understanding of data visualization, especially in the context of real-time data and storytelling.
 
 Feel free to connect with me or explore the project further on my [LinkedIn](https://www.linkedin.com/in/shubhambhatia2103/).
+
+
+---
+
+### Additional Notes
+Since you plan to delete the resources from your AWS console to avoid costs, this GitHub repository will serve as the sole showcase for your work on this project.
+
+Feel free to modify the content as needed or add more details specific to your experience!
+
